@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "816362152124",
+    "project_id": "moon-bca17",
+    "storage_bucket": "moon-bca17.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816362152124:android:f0cb5d965c5bf846a8b0b9",
+        "android_client_info": {
+          "package_name": "com.MoonPj.Myproject1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO1z1KBiMm6zUVwvlNrRIU2ubKg5wB674"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
