@@ -12,7 +12,7 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: MoonPj
+  companyName: D0nttknow
   productName: My project (1)
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
@@ -170,7 +170,7 @@ PlayerSettings:
   androidMaxAspectRatio: 2.4
   androidMinAspectRatio: 1
   applicationIdentifier:
-    Android: com.MoonPj.Myproject1
+    Android: com.D0nttknow.Myproject1
     Standalone: com.Unity-Technologies.com.unity.template.urp-blank
     iPhone: com.Unity-Technologies.com.unity.template.urp-blank
   buildNumber:
@@ -881,11 +881,11 @@ PlayerSettings:
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
   enableDirectStorage: 0
-  cloudProjectId: 7593eb08-cb5c-4b04-a488-fa3bfacce213
+  cloudProjectId: 5f4ffb92-bc9c-4e6a-a632-0f7e1fae2438
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: My project (1) (1)
-  organizationId: unity_299ca17d76123d99a04c
+  projectName: My project (1)
+  organizationId: bankkingtd
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}

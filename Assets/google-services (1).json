@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "816362152124",
-    "project_id": "moon-bca17",
-    "storage_bucket": "moon-bca17.firebasestorage.app"
+    "project_number": "136436978367",
+    "project_id": "d0nttknow",
+    "storage_bucket": "d0nttknow.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:816362152124:android:f0cb5d965c5bf846a8b0b9",
+        "mobilesdk_app_id": "1:136436978367:android:b1fefc86a5cd124800ec0a",
         "android_client_info": {
-          "package_name": "com.MoonPj.Myproject1"
+          "package_name": "com.D0nttknow.Myproject1"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAO1z1KBiMm6zUVwvlNrRIU2ubKg5wB674"
+          "current_key": "AIzaSyBu_tIyuMA6brvKgiPJJhkyoiBRyu_cLzg"
         }
       ],
       "services": {
