@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 63f1f23061eb94677b4c099331c06f0b, type: 3}
   m_Name: pushNotificationsSettings
   m_EditorClassIdentifier: Unity.Services.PushNotifications::Unity.Services.PushNotifications.PushNotificationSettings
-  firebaseWebApiKey: AIzaSyBu_tIyuMA6brvKgiPJJhkyoiBRyu_cLzg
-  firebaseProjectNumber: 136436978367
-  firebaseAppID: 1:136436978367:android:b1fefc86a5cd124800ec0a
+  firebaseWebApiKey: 
+  firebaseProjectNumber: 
+  firebaseAppID: 
   firebaseProjectID: d0nttknow
