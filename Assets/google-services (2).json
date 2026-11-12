@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "136436978367",
-    "project_id": "d0nttknow",
-    "storage_bucket": "d0nttknow.firebasestorage.app"
+    "project_number": "21961793512",
+    "project_id": "d0nttknoww10",
+    "storage_bucket": "d0nttknoww10.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:136436978367:android:b1fefc86a5cd124800ec0a",
+        "mobilesdk_app_id": "1:21961793512:android:93ea1554f1c1981b3fce5d",
         "android_client_info": {
-          "package_name": "com.D0nttknow.Myproject1"
+          "package_name": "com.d0nttknow.W10"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBu_tIyuMA6brvKgiPJJhkyoiBRyu_cLzg"
+          "current_key": "AIzaSyD7_Fqw9-XBL2GMehPQyysOZdSZNYbRZOk"
         }
       ],
       "services": {
